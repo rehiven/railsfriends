@@ -1,5 +1,5 @@
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.2/ext/bootsnap
-/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-58224-hti3jx.rb extconf.rb
+/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-12931-1q23f7.rb extconf.rb
 creating Makefile
 
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.2/ext/bootsnap
@@ -12,4 +12,4 @@ linking shared-object bootsnap/bootsnap.so
 
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.2/ext/bootsnap
 make "DESTDIR=" install
-/usr/bin/install -m 0755 bootsnap.so ./.gem.20220121-58224-prrphx/bootsnap
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20220121-12931-6w223d/bootsnap

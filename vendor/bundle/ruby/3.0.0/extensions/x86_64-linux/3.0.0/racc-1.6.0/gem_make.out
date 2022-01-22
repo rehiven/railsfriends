@@ -1,5 +1,5 @@
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
-/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-58224-xos36h.rb extconf.rb
+/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-12931-g3dm2r.rb extconf.rb
 checking for rb_block_call()... yes
 checking for rb_ary_subseq()... yes
 creating Makefile
@@ -14,4 +14,4 @@ linking shared-object racc/cparse.so
 
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
 make "DESTDIR=" install
-/usr/bin/install -m 0755 cparse.so ./.gem.20220121-58224-ry4lzu/racc
+/usr/bin/install -m 0755 cparse.so ./.gem.20220121-12931-mry4wv/racc

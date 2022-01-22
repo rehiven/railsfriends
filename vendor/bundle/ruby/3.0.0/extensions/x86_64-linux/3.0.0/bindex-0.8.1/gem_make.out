@@ -1,5 +1,5 @@
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
-/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-58224-lq5yty.rb extconf.rb
+/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-12931-ttiq5s.rb extconf.rb
 creating Makefile
 
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
@@ -12,4 +12,4 @@ linking shared-object skiptrace/internal/cruby.so
 
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
 make "DESTDIR=" install
-/usr/bin/install -m 0755 cruby.so ./.gem.20220121-58224-ridhqb/skiptrace/internal
+/usr/bin/install -m 0755 cruby.so ./.gem.20220121-12931-zvy5f9/skiptrace/internal

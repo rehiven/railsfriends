@@ -1,5 +1,5 @@
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/msgpack-1.4.3/ext/msgpack
-/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-58224-p2iy98.rb extconf.rb
+/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-12931-9639me.rb extconf.rb
 checking for ruby/st.h... yes
 checking for st.h... no
 checking for rb_enc_interned_str() in ruby.h... yes
@@ -78,4 +78,4 @@ linking shared-object msgpack/msgpack.so
 
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/msgpack-1.4.3/ext/msgpack
 make "DESTDIR=" install
-/usr/bin/install -m 0755 msgpack.so ./.gem.20220121-58224-wu5erd/msgpack
+/usr/bin/install -m 0755 msgpack.so ./.gem.20220121-12931-ml5sb8/msgpack

@@ -1,5 +1,5 @@
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
-/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-58224-ursyv0.rb extconf.rb
+/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-12931-bbg8m.rb extconf.rb
 creating Makefile
 
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
@@ -12,4 +12,4 @@ linking shared-object websocket_mask.so
 
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
 make "DESTDIR=" install
-/usr/bin/install -m 0755 websocket_mask.so ./.gem.20220121-58224-ln4ni0
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20220121-12931-hqg0n0

@@ -1,5 +1,5 @@
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/ffi-1.15.5/ext/ffi_c
-/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-58224-d7tpd.rb extconf.rb
+/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-12931-ru3i9h.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -40,4 +40,4 @@ linking shared-object ffi_c.so
 
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/ffi-1.15.5/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -m 0755 ffi_c.so ./.gem.20220121-58224-4ps9fo
+/usr/bin/install -m 0755 ffi_c.so ./.gem.20220121-12931-v83fwj

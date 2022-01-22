@@ -1,5 +1,5 @@
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
-/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-58224-owdb1s.rb extconf.rb
+/home/rehiven/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rehiven/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220121-12931-v32hsi.rb extconf.rb
 creating Makefile
 
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
@@ -16,4 +16,4 @@ linking shared-object byebug/byebug.so
 
 current directory: /home/rehiven/rails-projects/friends/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
 make "DESTDIR=" install
-/usr/bin/install -m 0755 byebug.so ./.gem.20220121-58224-v91avb/byebug
+/usr/bin/install -m 0755 byebug.so ./.gem.20220121-12931-b3jn4x/byebug
